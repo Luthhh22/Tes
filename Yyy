@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Happy Birthday, Silva!</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div class="header1"  id="header"> <b>Selamat Ulang Tahun!</b></h3> </div> 
+     <div class="header2"  id="yours"> <h1><b>Silva Rahima</b></h1> 
+     <h3>Rabu</b></h3>
+     <h3>24 Mei 2023</h3> 
+   <h3>19th Years Old</h3> 
+  </div>
+
+
+
+  <img id="gambar" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyCqdpxBBvN8xHQ5I_7RJbde2dBjWKJ6CzmZCPSscViE5hiFs57ZfTVHeMoYqV9frTz2Oq_3L9q4wPjHqkTC3Y7HZ8hQVrVSuOoq5atsgv6uQr4LsbbbDTnLDQhj7Fw6qLOxsP_Kb-V0c4S7PV85Ss3eypKs0_I9geJgl4OMNyxRcKcpgTolLoI-G9/s320/WhatsApp%20Image%202023-05-23%20at%2022.31.12.jpeg"
+    style="width:50%;margin:32px, 0, 2px, 0;border: 5px solid #333">
+
+ <div class="header1">  <p><b> Happy Birthday, Silva Rahima! </b></p> </div>
+<div class="bg2"> <p id="tulisan"> Semoga apa yang diimpikan bisa terwujud, jadi pribadi yang lebih baik lagi ke depannyaa, kurang-kurangin mengghibahnya, bisa jadi sosok yang kuat dan lebih sabar and always semangattt. Semua yang terbaik buat Silva pokoknyaa! </p> </div>
+ <div class="bg2">  <p id="kado"> <b> *klik tombol di bawah yaaa:D*</p></div> </b>
+  <p> </p>
+<button style="button" id="tombol" onclick="myFunction()"> Coba klik deh</button> 
+  
+  <script src="script.js"></script>
+
+  <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge-v2.js" theme="dark" position="center"></script>
+</body>
+
+</html>
